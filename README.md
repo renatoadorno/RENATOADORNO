@@ -1,7 +1,10 @@
 ## **Olá!! Meu nome é Renato Adorno ✌️**
 
 <br></br>
-![Renato GitHub stats](https://github-readme-stats.vercel.app/api?username=RENATOADORNO&show_icons=true&theme=dracula)
+<div style="display: inline-block;">
+  <img width="380px" src="https://github-readme-stats.vercel.app/api?username=RENATOADORNO&show_icons=true&theme=dracula">
+  <img width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RENATOADORNO&layout=compact">
+</div>
 <br></br>
 
 <div style="display: inline-block;">
@@ -28,7 +31,3 @@
 
 [![Portifolio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg?style=for-the-badge&label=renatoadorno.com&url=https://renatoadorno.com)](https://renatoadorno.com)
 <br></br>
-
-## **Tecnologias Mais Usadas**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RENATOADORNO&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
