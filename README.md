@@ -1,4 +1,4 @@
-## **Oiii eu sou o Renato Adorno, Programador Front-End!**
+## **Oiii eu sou o Renato Adorno, Programador Web Front-End!**
 
 <div style="display: inline-block;">
   <a href="https://github.com/RENATOADORNO">
