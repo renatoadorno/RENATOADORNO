@@ -1,9 +1,9 @@
-## **Olá!! Meu nome é Renato Adorno ✌️**
+## **Oiii eu sou o Renato Adorno, Programador Front-End!**
 
-<br></br>
 <div style="display: inline-block;">
-  <img width="380px" src="https://github-readme-stats.vercel.app/api?username=RENATOADORNO&show_icons=true&theme=dracula">
-  <img width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RENATOADORNO&layout=compact">
+  <a href="https://github.com/RENATOADORNO">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RENATOADORNO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RENATOADORNO&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <br></br>
 
