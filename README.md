@@ -1,9 +1,15 @@
-## **Oiii eu sou o Renato Adorno, Programador Web Front-End!**
+## **Sobre Mim**
+Meu nome é **Renato Adorno**!
+<p>Sou apaixonado por Tecnologia, iniciando a carreira na area de Desenvolvimento Web.
+Já atuei na area de Marketing Digital, auxiliando pequenas empresa em sua identidade digital. 
+Atualmente sou estudante de Desenvolvimento Web na Trybe.</p>
+<br></br>
 
+## **GitHub**
 <div style="display: inline-block;">
   <a href="https://github.com/RENATOADORNO">
   <img width="380px"src="https://github-readme-stats.vercel.app/api?username=RENATOADORNO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="377px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RENATOADORNO&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="318px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RENATOADORNO&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <br></br>
 
@@ -21,13 +27,12 @@
 <br></br>
 
 ## **Contato**
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renatoadorno/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renattoadorno@gmail.com)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5567992059592&text=Estou%20entrando%20em%20contato%20atrav%C3%A9s%20GitHub)
 <br></br>
 
-## **Portifolio**
+<!-- ## **Portifolio**
 
 [![Portifolio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg?style=for-the-badge&label=renatoadorno.com&url=https://renatoadorno.com)](https://renatoadorno.com)
-<br></br>
+<br></br> -->
