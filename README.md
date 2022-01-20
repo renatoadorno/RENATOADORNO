@@ -1,5 +1,4 @@
 ## **Sobre Mim**
-Meu nome é **Renato Adorno**!
 <p>Sou apaixonado por Tecnologia, iniciando a carreira na area de Desenvolvimento Web.
 Já atuei na area de Marketing Digital, auxiliando pequenas empresa em sua identidade digital. 
 Atualmente sou estudante de Desenvolvimento Web na Trybe.</p>
