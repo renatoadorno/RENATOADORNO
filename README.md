@@ -1,32 +1,38 @@
-## **Sobre**
+## **Quem sou eu ?**
 <p>
-  Oii, sou o Renato, Desenvolvedor Full-Stack , tenho 21 anos, moro no estado de São Paulo, sou apaixonado por Tecnologia desde quando joguei videogame pela primeira vez, desde então a maioria do que aprendo, ou tenho curiosidade de aprender tem a ver com tecnologia.
+  Oii, eu sou o Renato, tenho 21 anos, moro no estado de São Paulo, sou apaixonado por Tecnologia desde quando joguei videogame pela primeira vez, desde então a maioria do que aprendo, ou tenho curiosidade de aprender tem a ver com tecnologia.
 
-  Apesar de ter skills full-stack, gosto do back-end, inserindo Programação Funcional e POO com JavaScript e TypeScript.
+  Apesar de ter skills full-stack, gosto do back-end, atualmente tenho praticado **Programação Funcional e POO com JavaScript e TypeScript**.
 
-  Aqui coloco meus principais projetos e códigos, a maioria dos projetos fiz durante meu período de estudo na Trybe, utilizando Git, Node.js, Express, TypeScript, JavaScript, React, MySQL, junto com Metodologias Ágeis e as melhores práticas de desenvolvimento.
+  Aqui coloco meus principais projetos e códigos, a maioria dos projetos fiz durante meu período de estudo na Trybe, utilizando **Node.js, Express, React, MySQL, junto com Metodologias Ágeis e as melhores práticas de desenvolvimento.**
 
-  Meu objetivo atualmente, é encontrar uma nova oportunidade como desenvolvedor full-stack ou back-end, que seja desafiadora, onde eu possa ganhar experiencia, aprender, e contribuir com o time ao qual estiver inserido, aplicando todo o meu conhecimento e aprendizado, além de continuar evoluindo dentro da minha carreira.
+  Meu objetivo atual, é encontrar uma **nova oportunidade como desenvolvedor full-stack ou back-end**, que seja desafiadora, onde eu possa ganhar experiencia, aprender, e contribuir com o time ao qual estiver inserido, aplicando todo o meu conhecimento e aprendizado, além de continuar evoluindo dentro da minha carreira.
 </p>
 <br>
 
-## **Contato**
+## **Quer conversar comigo ?**
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renatoadorno/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renattoadorno@gmail.com)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5567992059592&text=Estou%20entrando%20em%20contato%20atrav%C3%A9s%20GitHub)
+<a href="https://www.linkedin.com/in/renatoadorno/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
+</a>
+<a href="mailto:renattoadorno@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://api.whatsapp.com/send?phone=5567992059592&text=Estou%20entrando%20em%20contato%20atrav%C3%A9s%20GitHub" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp">
+</a>
 <br></br>
 
-<!-- ## **Portfólio**
+<!-- ## **Quer saber um pouco mais ?**
 
-<a href="">
-  <img src="https://img.shields.io/badge/WebSite-Portfolio-blue?style=for-the-badge&logo=arrow" alt="git">
+<a href="" target="_blank">
+  <img src="https://img.shields.io/badge/WebSite-Portfolio-blue?style=for-the-badge&logo=arrow" alt="site">
 </a>
-<a href="">
-  <img src="https://img.shields.io/badge/CV-Download-green?style=for-the-badge&logo=arrow" alt="git">
+<a href="https://drive.google.com/file/d/10K-cshxJFqklnV_AG4y4tau1qJgsmKk4/view?usp=sharing" download target="_blank">
+  <img src="https://img.shields.io/badge/CV-Download-green?style=for-the-badge&logo=arrow" alt="cv">
 </a> -->
 
-## **GitHub**
+## **Dados do meu GitHub !**
 
 <div style="display: inline-block;">
   <a href="https://github.com/RENATOADORNO">
@@ -36,7 +42,7 @@
 <br></br>
 
 <div style="display: inline-block;">
-  <h2><b>Tecnologias</b></h2>
+  <h2><b>Tecnologias que uso no dia a dia !</b></h2>
   <section>
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git">
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs">
@@ -59,4 +65,3 @@
   </section>
 </div>
 <br></br>
-
