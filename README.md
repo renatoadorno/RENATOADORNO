@@ -1,4 +1,4 @@
-## **Quem sou eu ?**
+## **Quem sou eu**❔
 <p>
   Oii, eu sou o Renato, tenho 21 anos, moro no estado de São Paulo, sou apaixonado por Tecnologia desde quando joguei videogame pela primeira vez, desde então a maioria do que aprendo, ou tenho curiosidade de aprender tem a ver com tecnologia.
 
@@ -10,7 +10,7 @@
 </p>
 <br>
 
-## **Quer conversar comigo ?**
+## **Quer conversar comigo**❔
 
 <a href="https://www.linkedin.com/in/renatoadorno/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
@@ -23,7 +23,7 @@
 </a>
 <br></br>
 
-<!-- ## **Quer saber um pouco mais ?**
+<!-- ## **Quer saber um pouco mais**❔
 
 <a href="" target="_blank">
   <img src="https://img.shields.io/badge/WebSite-Portfolio-blue?style=for-the-badge&logo=arrow" alt="site">
@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/CV-Download-green?style=for-the-badge&logo=arrow" alt="cv">
 </a> -->
 
-## **Dados do meu GitHub !**
+## **Informaçãoes do meu GitHub**❕
 
 <div style="display: inline-block;">
   <a href="https://github.com/RENATOADORNO">
@@ -42,7 +42,7 @@
 <br></br>
 
 <div style="display: inline-block;">
-  <h2><b>Tecnologias que uso no dia a dia !</b></h2>
+  <h2><b>Tecnologias que uso no dia a dia❕</b></h2>
   <section>
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git">
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs">
