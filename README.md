@@ -5,32 +5,34 @@
   Apesar de ter skills full-stack, gosto do back-end, atualmente tenho praticado **Programação Funcional e POO com JavaScript e TypeScript**.
 
   Aqui coloco meus principais projetos e códigos, a maioria dos projetos fiz durante meu período de estudo na Trybe, utilizando **Node.js, Express, React, MySQL, junto com Metodologias Ágeis e as melhores práticas de desenvolvimento.**
-
-  Meu objetivo atual, é encontrar uma **nova oportunidade como desenvolvedor full-stack ou back-end**, que seja desafiadora, onde eu possa ganhar experiencia, aprender, e contribuir com o time ao qual estiver inserido, aplicando todo o meu conhecimento e aprendizado, além de continuar evoluindo dentro da minha carreira.
 </p>
 <br>
 
-## **Quer conversar comigo**❔
+## **Quer saber um pouco mais**❔
 
-<a href="https://www.linkedin.com/in/renatoadorno/" target="_blank">
+<section>
+  <a href="https://renatoadorno.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="site">
+  </a>
+  <a href="https://dev.to/renatoadorno" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="site">
+  </a>
+  <a href="https://drive.google.com/file/d/1uMyWUP8rn1BwvrkIqUCiCMmnNNQia91U/view?usp=sharing" download target="_blank">
+    <img src="https://img.shields.io/badge/CURRICULO-black?style=for-the-badge&logo=arrow" alt="cv">
+  </a>
+</section>
+
+<section>
+  <a href="https://www.linkedin.com/in/renatoadorno/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
-</a>
-<a href="mailto:renattoadorno@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-<a href="https://api.whatsapp.com/send?phone=5567992059592&text=Estou%20entrando%20em%20contato%20atrav%C3%A9s%20GitHub" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp">
-</a>
-<br></br>
-
-<!-- ## **Quer saber um pouco mais**❔
-
-<a href="" target="_blank">
-  <img src="https://img.shields.io/badge/WebSite-Portfolio-blue?style=for-the-badge&logo=arrow" alt="site">
-</a>
-<a href="https://drive.google.com/file/d/10K-cshxJFqklnV_AG4y4tau1qJgsmKk4/view?usp=sharing" download target="_blank">
-  <img src="https://img.shields.io/badge/CV-Download-green?style=for-the-badge&logo=arrow" alt="cv">
-</a> -->
+  </a>
+  <a href="mailto:renattoadorno@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5567992059592&text=Estou%20entrando%20em%20contato%20atrav%C3%A9s%20GitHub" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp">
+  </a>
+</section>
 
 ## **Informaçãoes do meu GitHub**❕
 
