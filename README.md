@@ -1,13 +1,3 @@
-## **Quem sou eu**❔
-<p>
-  Oii, eu sou o Renato, tenho 21 anos, moro no estado de São Paulo, sou apaixonado por Tecnologia desde quando joguei videogame pela primeira vez, desde então a maioria do que aprendo, ou tenho curiosidade de aprender tem a ver com tecnologia.
-
-  Apesar de ter skills full-stack, gosto do back-end, atualmente tenho praticado **Programação Funcional e POO com JavaScript e TypeScript**.
-
-  Aqui coloco meus principais projetos e códigos, a maioria dos projetos fiz durante meu período de estudo na Trybe, utilizando **Node.js, Express, React, MySQL, junto com Metodologias Ágeis e as melhores práticas de desenvolvimento.**
-</p>
-<br>
-
 ## **Quer saber um pouco mais**❔
 
 <section>
@@ -30,37 +20,30 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp">
   </a>
 </section>
-
-## **Informaçãoes do meu GitHub**❕
+<br></br>
 
 <div style="display: inline-block;">
   <a href="https://github.com/RENATOADORNO">
-  <img width="380px"src="https://github-readme-stats.vercel.app/api?username=RENATOADORNO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="318px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RENATOADORNO&layout=compact&langs_count=7&theme=dracula"/>
+  <h2><b>Tecnologias e linguagens que utilizo no dia a dia❕</b></h2>
+  <img width="290px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RENATOADORNO&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="400px"src="https://github-readme-stats.vercel.app/api?username=RENATOADORNO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <br></br>
 
 <div style="display: inline-block;">
-  <h2><b>Tecnologias que uso no dia a dia❕</b></h2>
   <section>
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git">
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="ts">
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express">
-    <img src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue" alt="sequelize">
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb">
-    <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="shell">
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker">
-    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku">
-  </section>
-  <br></br>
-  <section>
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react">
-    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux">
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
+  </section>
+  <section>
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="go">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="py">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java">
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb">
   </section>
 </div>
 <br></br>
