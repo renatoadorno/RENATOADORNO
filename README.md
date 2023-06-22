@@ -7,7 +7,7 @@
   <a href="https://dev.to/renatoadorno" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="site">
   </a>
-  <a href="https://drive.google.com/file/d/1TLw-vp5qk3TEiVqLeHEKqK4Gju-4DlU-/view?usp=sharing" target="_blank" rel="noreferrer">
+  <a href="https://drive.google.com/file/d/1ZBOej4LQ4aXBOXT7yOg32KiKUrG55bOq/view?usp=sharing" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/CURRICULO-black?style=for-the-badge&logo=arrow" alt="cv">
   </a>
   <a href="https://www.linkedin.com/in/renatoadorno/" target="_blank" rel="noreferrer">
