@@ -4,7 +4,7 @@
       <img width="460px" src="header.svg" alt="Click to see the source">
     </div>
     <img class="status" src="https://github-readme-stats.vercel.app/api?username=RENATOADORNO&show_icons=true&include_all_commits=true&count_private=true&icon_color=000000&title_color=000000"/>
-    <div align="start">
+    <div align="start" width="460px">
       <h3 class="title">Quem sou eu</h3>
       <p class="text">Meu Nome é Renato W. Adorno, sou desenvolvedor Full-Stack e atualmente trabalho em um dos maiores e-commerce de ingressos do Brasil.</p>
       <h3 class="title">O que você encontra no meu GitHub</h3>
