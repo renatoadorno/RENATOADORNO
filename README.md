@@ -1,8 +1,8 @@
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-  <div style="width: 100%;">
+  <div style="width: 460px;">
     <img src="header.svg" style="width: 100%;" alt="Click to see the source">
   </div>
-  <div style="width: 460px; margin: -10rem;">
+  <div align="center" style="width: 460px;">
     <img class="status" src="https://github-readme-stats.vercel.app/api?username=RENATOADORNO&show_icons=true&include_all_commits=true&count_private=true&icon_color=000000&title_color=000000"/>
     <div class="box">
       <h3 class="title">Quem sou eu</h3>
