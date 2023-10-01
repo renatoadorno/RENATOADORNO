@@ -8,14 +8,6 @@
       <img width="100%" src="content.svg" alt="Click to see the source">
     </div>
     <div>
-      <h3 class="title">Quem sou eu</h3>
-      <p class="text">Meu Nome é Renato W. Adorno, sou Desenvolvedor </br> Full-Stack e atualmente trabalho em um dos maiores </br> e-commerce de ingressos do Brasil.</p>
-      <h3 class="title">O que você encontra no meu GitHub</h3>
-      <p class="text">☑ Projetos que fiz em minha faze de aprendizado na <b>Trybe</b>.</p>
-      <p class="text">☑ Alguns repos aleatórios que utilizo para estudar.</p>
-      <p class="text">☑ Projetos FrontEnd & BackEnd.</p>
-      <p class="text">☑ Alguns scripts em Bash.</p>
-      <h3 class="title">Skills</h3>
       <i class="fa-brands devicon-git-plain fa-fade  icon"></i>
       <i class="fa-brands devicon-bash-plain fa-fade  icon"></i>
       <i class="fa-brands devicon-linux-plain fa-fade icon"></i>
