@@ -5560,7 +5560,12 @@
 </style>
 <body>
   <div class="container">
-    <section class="section">
+      <section class="section">
+          <style scoped>
+        p {
+          color: red;
+        }
+      </style>
       <i class="fa-brands devicon-github-original fa-bounce icon"></i>
       <h3 class="head-text">Bem vindo ao meu GitHub!</h3>
       <img class="status" src="https://github-readme-stats.vercel.app/api?username=RENATOADORNO&show_icons=true&include_all_commits=true&count_private=true&icon_color=000000&title_color=000000"/>
