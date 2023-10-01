@@ -7,7 +7,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
 </head>
-<style rel="stylesheet">
+<style type="text/css">
   .fa {
     font-family: var(--fa-style-family, "Font Awesome 6 Free");
     font-weight: var(--fa-style, 900); }
@@ -5511,7 +5511,7 @@
     content: "\ea10";
   }
 </style>
-<style>
+<style type="text/css">
   * {
     box-sizing: border-box;
     padding: 0;
