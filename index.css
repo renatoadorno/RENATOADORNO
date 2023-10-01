@@ -16,6 +16,9 @@
 .icon {
   color: white;
   font-size: 52px;
+  width: 52px;
+  height: 52px;
+  margin-left: .5rem;
 }
 .section {
   display: flex;
