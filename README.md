@@ -1,49 +1,54 @@
-## **Quer saber um pouco mais**❔
-
-<section>
-  <a href="https://renatoadorno.vercel.app/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="site">
-  </a>
-  <a href="https://dev.to/renatoadorno" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="site">
-  </a>
-  <a href="https://drive.google.com/file/d/1ZBOej4LQ4aXBOXT7yOg32KiKUrG55bOq/view?usp=sharing" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/CURRICULO-black?style=for-the-badge&logo=arrow" alt="cv">
-  </a>
-  <a href="https://www.linkedin.com/in/renatoadorno/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
-  </a>
-  <a href="mailto:renattoadorno@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=5517996251778&text=Estou%20entrando%20em%20contato%20atrav%C3%A9s%20GitHub" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp">
-  </a>
-</section>
-<br></br>
-
-<div style="display: inline-block;">
-  <a href="https://github.com/RENATOADORNO">
-  <h2><b>Tecnologias e linguagens que utilizo no dia a dia❕</b></h2>
-  <img width="290px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RENATOADORNO&layout=compact&langs_count=7&theme=dracula"/>
-  <img width="400px"src="https://github-readme-stats.vercel.app/api?username=RENATOADORNO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-<br></br>
-
-<div style="display: inline-block;">
-  <section>
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git">
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="ts">
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react">
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
-  </section>
-  <section>
-    <!-- <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="go"> -->
-    <!-- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="py"> -->
-    <!-- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java"> -->
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker">
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb">
-  </section>
-</div>
-<br></br>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/brands.min.css" integrity="sha512-W/zrbCncQnky/EzL+/AYwTtosvrM+YG/V6piQLSe2HuKS6cmbw89kjYkp3tWFn1dkWV7L1ruvJyKbLz73Vlgfg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <link rel="stylesheet" href="./index.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="container">
+    <section class="section">
+      <i class="fa-brands fa-github fa-bounce icon"></i>
+      <h3 class="head-text">Bem vindo ao meu GitHub!</h3>
+      <img class="status" src="https://github-readme-stats.vercel.app/api?username=RENATOADORNO&show_icons=true&include_all_commits=true&count_private=true&icon_color=000000&title_color=000000"/>
+    </section>
+    <section class="section">
+      <div class="box">
+        <h3 class="title">Quem sou eu</h3>
+        <p class="text">Meu Nome é Renato W. Adorno, sou desenvolvedor Full-Stack e atualmente trabalho em um dos maiores e-commerce de ingressos do Brasil.</p>
+        <h3 class="title">O que você encontra no meu GitHub</h3>
+        <p class="text">☑ Projetos que fiz em minha faze de aprendizado na <b>Trybe</b>.</p>
+        <p class="text">☑ Alguns repos aleatórios que utilizo para estudar.</p>
+        <p class="text">☑ Projetos FrontEnd & BackEnd.</p>
+        <p class="text">☑ Alguns scripts em Bash.</p>
+        <h3 class="title">Skills</h3>
+        <i class="fa-brands devicon-git-plain fa-fade  icon"></i>
+        <i class="fa-brands devicon-bash-plain fa-fade  icon"></i>
+        <i class="fa-brands devicon-linux-plain fa-fade icon"></i>
+        <i class="fa-brands devicon-docker-plain-wordmark fa-fade icon"></i>
+        <i class="fa-brands devicon-typescript-plain fa-fade icon"></i>
+        <i class="fa-brands devicon-react-plain fa-fade icon"></i>
+        <i class="fa-brands devicon-nodejs-plain fa-fade icon"></i>
+        <i class="fa-brands devicon-javascript-plain fa-fade icon"></i>
+        <i class="fa-brands devicon-nextjs-plain fa-fade icon"></i>
+        <i class="fa-brands devicon-nestjs-plain fa-fade icon"></i>
+        <i class="fa-brands devicon-python-plain fa-fade icon"></i>
+        <i class="fa-brands devicon-sass-plain fa-fade icon"></i>
+        <i class="fa-brands devicon-express-original fa-fade icon"></i>
+        <i class="fa-brands devicon-jquery-plain fa-fade icon"></i>
+        <i class="fa-brands devicon-go-plain fa-fade icon"></i>
+        <i class="fa-brands devicon-figma-plain fa-fade icon"></i>
+      </div>
+    </section>
+    <section>
+    </section>
+  </div>
+</body>
+</html>
