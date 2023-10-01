@@ -1,9 +1,12 @@
 <div>
-  <div>
+  <div align="center">
     <div>
-      <img width="400px" src="header.svg" alt="Click to see the source">
+      <img width="100%" src="header.svg" alt="Click to see the source">
     </div>
-    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=RENATOADORNO&show_icons=true&include_all_commits=true&count_private=true&icon_color=000000&title_color=000000"/>
+    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=RENATOADORNO&show_icons=true&include_all_commits=true&count_private=true&icon_color=000000&title_color=000000"/>
+    <div>
+      <img width="100%" src="content.svg" alt="Click to see the source">
+    </div>
     <div>
       <h3 class="title">Quem sou eu</h3>
       <p class="text">Meu Nome é Renato W. Adorno, sou Desenvolvedor </br> Full-Stack e atualmente trabalho em um dos maiores </br> e-commerce de ingressos do Brasil.</p>
