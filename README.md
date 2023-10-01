@@ -1,11 +1,11 @@
 <div>
   <div align="center">
     <div>
-      <img width="100%" src="header.svg" alt="Click to see the source">
+      <img width="70%" src="header.svg" alt="Click to see the source">
     </div>
-    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=RENATOADORNO&show_icons=true&include_all_commits=true&count_private=true&icon_color=000000&title_color=000000"/>
+    <img width="70%" src="https://github-readme-stats.vercel.app/api?username=RENATOADORNO&show_icons=true&include_all_commits=true&count_private=true&icon_color=000000&title_color=000000"/>
     <div>
-      <img width="100%" src="content.svg" alt="Click to see the source">
+      <img width="70%" src="content.svg" alt="Click to see the source">
     </div>
     <div>
       <i class="fa-brands devicon-git-plain fa-fade  icon"></i>
