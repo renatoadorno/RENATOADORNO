@@ -6,7 +6,7 @@ $ cat /etc/focus
 sistemas · infraestrutura · desempenho · escalabilidade
 
 $ cat /etc/stack
-backend:  TypeScript · Node.js · NestJS · Bun
+backend:  TypeScript · Node.js · NestJS · Bun · MySQL
 cloud:    AWS (Lambda · EC2 · VPC · CDK · DynamoDB · ElastiCache · IAM)
 infra:    GitHub Actions · AWS CDK · Turborepo · Serverless Framework
 mobile:   React Native (módulos nativos Java)
