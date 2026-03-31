@@ -12,7 +12,7 @@ infra:    GitHub Actions · AWS CDK · Turborepo · Serverless Framework
 mobile:   React Native (módulos nativos Java)
 
 $ cat /proc/learning
-sistemas distribuídos · compiladores · kernel linux · TCP/IP · sockets
+sistemas distribuídos · compiladores · TCP/IP · sockets
 
 $ ls ~/projects/
 bun-llama-cpp/   vecstash/   azdev/
