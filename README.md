@@ -23,7 +23,7 @@ bun-llama-cpp/   vecstash/   azdev/
 ### 🔭 Filosofia
 
 - sistemas bem construídos envelhecem bem
-- infraestrutura é produto — precisa de design, não só de funcionamento
+- infraestrutura precisa de design, não só de funcionamento
 - o problema define a solução, não a stack
 - entender o sistema > confiar na abstração
 
