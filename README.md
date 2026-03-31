@@ -20,16 +20,16 @@ bun-llama-cpp/   vecstash/   azdev/
 
 ---
 
-### filosofia
+### 🔭 Filosofia
 
-- sistemas bem construídos envelhecem bem; código que resolve o problema errado não
+- sistemas bem construídos envelhecem bem
 - infraestrutura é produto — precisa de design, não só de funcionamento
 - o problema define a solução, não a stack
 - entender o sistema > confiar na abstração
 
 ---
 
-### contato
+### 📫 Contato
 
 - linkedin: https://linkedin.com/in/renatoadorno
 - email: renattoadorno@gmail.com
