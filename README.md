@@ -1,4 +1,4 @@
-```sh
+```bash
 $ whoami
 renato adorno — software engineer
 
